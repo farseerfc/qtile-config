@@ -1,0 +1,4 @@
+*.pyc
+__pycache__
+qtile
+qtile-examples
